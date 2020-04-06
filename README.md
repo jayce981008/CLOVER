@@ -11,3 +11,9 @@
 - [Clover Configurator](https://mackie100projects.altervista.org/clover-configurator/)
 
 - [Kext Utility](http://cvad-mac.narod.ru/index/0-4)
+
+## themes
+
+[Catalina](https://sourceforge.net/p/cloverefiboot/themes/ci/master/tree/themes/Catalina/)
+
+> more themes [https://sourceforge.net/p/cloverefiboot/themes/ci/master/tree/themes/](https://sourceforge.net/p/cloverefiboot/themes/ci/master/tree/themes/)
